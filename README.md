@@ -41,8 +41,8 @@ Java, Spring Boot, MySQL — Splitwise-style group expense tracker with automate
 
 ### 📊 GitHub Stats
 
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwaryamc-06&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryamc-06&layout=compact)
 
 ---
 
